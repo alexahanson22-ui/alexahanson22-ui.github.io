@@ -2,11 +2,9 @@
 layout: post
 title: My First Post
 subtitle: Why I signed up for Electronic Textiles
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [aboutme]
 comments: true
-mathjax: true
+mathjax: false
 author: Alexa Hanson
 ---
 
