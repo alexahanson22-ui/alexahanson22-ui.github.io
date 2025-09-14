@@ -15,7 +15,7 @@ My name is Alexa Hanson. I am a senior Political Science major at Williams and I
 
 
 
-![Said picture](https://alexahanson22-ui.com/assets/img/sevenbday.jpeg){: .mx-auto.d-block :}
+![Said picture](https://alexahanson22-ui.github.io/assets/img/sevenbday.jpeg){: .mx-auto.d-block :}
 
 
 
