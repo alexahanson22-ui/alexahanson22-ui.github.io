@@ -1,8 +1,7 @@
 ---
 layout: post
-title: ASCII Extra Credit
-subtitle: Trying to code a cat in c
-tags: 
+title: "ASCII Extra Credit"
+subtitle: "Trying to code a cat in c"
 comments: true
 mathjax: false
 author: Alexa Hanson
