@@ -27,4 +27,3 @@ int main(void) {
 ```
 
 ![ASCII cat output](/assets/img/Screenshot-of-c-cat.png){: .mx-auto.d-block}
-![C source code screenshot](/assets/img/Screenshot-of-c-cat-code.png){: .mx-auto.d-block}
