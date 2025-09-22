@@ -11,7 +11,7 @@ author: Alexa Hanson
 I am attaching code and an image that were created in c.
 
 
-![Said picture](https://alexahanson22-ui.github.io/assets/img/Screenshot-of-c-cat.png){: .mx-auto.d-block :}
+![Said picture](https://alexahanson22-ui.github.io/assets/img/Screenshot-of-c-cat.png.png){: .mx-auto.d-block :}
 
-![Said picture](https://alexahanson22-ui.github.io/assets/img/Screenshot-of-c-cat-code.png){: .mx-auto.d-block :}
+![Said picture](https://alexahanson22-ui.github.io/assets/img/Screenshot-of-c-cat-code.png.png){: .mx-auto.d-block :}
 
