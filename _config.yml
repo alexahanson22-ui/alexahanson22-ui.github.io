@@ -22,8 +22,8 @@ author: Alexa Hanson
 navbar-links:
   About Me: "aboutme"
  Assignments:
-  - Basic Facts: "https://alexahanson22-ui.github.io/_posts/2025-09-11-first-post.html"
-  - ASCII Art EC: "https://alexahanson22-ui.github.io/_posts/2025-09-22-EC-art-piece.html"
+  - Basic Facts: "https://alexahanson22-ui.github.io/_posts/2025-09-11-first-post.md"
+  - ASCII Art EC: "https://alexahanson22-ui.github.io/_posts/2025-09-22-EC-art-piece.md"
 
 ################
 # --- Logo --- #
