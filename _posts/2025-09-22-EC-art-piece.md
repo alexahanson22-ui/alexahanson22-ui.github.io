@@ -1,16 +1,14 @@
 ---
 layout: post
 title: "ASCII Extra Credit"
-subtitle: "Trying to code a cat in c"
+subtitle: "Trying to code a cat in C"
+tags: []
 comments: true
 mathjax: false
 author: "Alexa Hanson"
 ---
 
-I am attaching code and an image that were created in c.
+I am attaching code and an image that were created in C.
 
-
-![ASCII output of cat](https://alexahanson22-ui.github.io/assets/img/Screenshot-of-c-cat.png){:
-
-![Code for c cat](https://alexahanson22-ui.github.io/assets/img/Screenshot-of-c-cat-code.png){:
-
+![ASCII cat output](https://alexahanson22-ui.github.io/assets/img/Screenshot-of-c-cat.png){: .mx-auto.d-block}
+![C source code screenshot](https://alexahanson22-ui.github.io/assets/img/Screenshot-of-c-cat-code.png){: .mx-auto.d-block}
