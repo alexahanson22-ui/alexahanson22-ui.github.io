@@ -4,13 +4,13 @@ title: "ASCII Extra Credit"
 subtitle: "Trying to code a cat in c"
 comments: true
 mathjax: false
-author: Alexa Hanson
+author: "Alexa Hanson"
 ---
 
 I am attaching code and an image that were created in c.
 
 
-![Said picture](https://alexahanson22-ui.github.io/assets/img/Screenshot-of-c-cat.png.png){: .mx-auto.d-block :}
+![ASCII output of cat](https://alexahanson22-ui.github.io/assets/img/Screenshot-of-c-cat.png){:
 
-![Said picture](https://alexahanson22-ui.github.io/assets/img/Screenshot-of-c-cat-code.png.png){: .mx-auto.d-block :}
+![Code for c cat](https://alexahanson22-ui.github.io/assets/img/Screenshot-of-c-cat-code.png){:
 
