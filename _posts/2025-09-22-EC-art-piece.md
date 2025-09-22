@@ -10,5 +10,5 @@ author: "Alexa Hanson"
 
 I am attaching code and an image that were created in C.
 
-![ASCII cat output](https://alexahanson22-ui.github.io/assets/img/Screenshot-of-c-cat.jpg){: .mx-auto.d-block}
-![C source code screenshot](https://alexahanson22-ui.github.io/assets/img/Screenshot-of-c-cat-code.jpg){: .mx-auto.d-block}
+![ASCII cat output](/assets/img/Screenshot-of-c-cat.png){: .mx-auto.d-block}
+![C source code screenshot](/assets/img/Screenshot-of-c-cat-code.png){: .mx-auto.d-block}
