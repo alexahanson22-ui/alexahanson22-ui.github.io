@@ -8,7 +8,7 @@ mathjax: false
 author: "Alexa Hanson"
 ---
 
-I am attaching code and an image that were created in C. I had inspiration from this website: https://www.asciiart.eu/animals/cats.
+I am attaching code and an image that were created in C. I had inspiration from [this website:](https://www.asciiart.eu/animals/cats).
 
 Here is the code snippet 
 
