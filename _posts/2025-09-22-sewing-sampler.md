@@ -13,4 +13,4 @@ Here is my sewing sampler. A tip I would suggest is to look at videos on YouTube
 
 ![whipstitch](/assets/img/whipstitch.jpeg){: .mx-auto.d-block}
 
-![backofsampler](/assets/img/backofsampler.heic){: .mx-auto.d-block}
+![backofsampler](/assets/img/backofsampler.jpeg){: .mx-auto.d-block}
