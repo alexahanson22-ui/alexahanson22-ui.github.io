@@ -11,7 +11,4 @@ Here is a C-program where I practiced conditional statements, which consist of i
 
 ![close up of sampler](/assets/img/sewingsampler.jpeg){: .mx-auto.d-block}
 
-![whipstitch](/assets/img/whipstitch.jpeg){: .mx-auto.d-block}
-
-![backofsampler](/assets/img/backofsampler.jpeg){: .mx-auto.d-block}
 
