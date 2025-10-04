@@ -22,13 +22,20 @@ author: Alexa Hanson
 navbar-links:
   About Me: "aboutme"
   Assignments:
-    - Basic Facts: "https://alexahanson22-ui.github.io/2025/09/11/first-post.html"
-    - ASCII Art EC: "https://alexahanson22-ui.github.io/2025/09/22/EC-art-piece.html"
-    - Sewing Sampler: "https://alexahanson22-ui.github.io/2025/09/22-sewing-sampler.html"
-    - Sweater Weather: "https://alexahanson22-ui.github.io/2025/09/23-sweater-weather.html"
-    - Plushy Assignment: "https://alexahanson22-ui.github.io/2025/09/29-plushy-assignment.html"
-    - Odd Menu: "https://alexahanson22-ui.github.io/2025/10/01-odd-menu.html"
-    - Plushy Redux: "https://alexahanson22-ui.github.io/2025/10/01-plushy-redux.html"
+    - name: "Basic Facts"
+      url: "https://alexahanson22-ui.github.io/2025/09/11/first-post.html"
+    - name: "ASCII Art EC"
+      url: "https://alexahanson22-ui.github.io/2025/09/22/EC-art-piece.html"
+    - name: "Sewing Sampler"
+      url: "https://alexahanson22-ui.github.io/2025/09/22/sewing-sampler.html"
+    - name: "Sweater Weather"
+      url: "https://alexahanson22-ui.github.io/2025/09/23/sweater-weather.html"
+    - name: "Plushy Assignment"
+      url: "https://alexahanson22-ui.github.io/2025/09/29-plushy-assignment.html"
+    - name: "Odd Menu"
+      url: "https://alexahanson22-ui.github.io/2025/10/01-odd-menu.html"
+    - name: "Plushy Redux"
+      url: "https://alexahanson22-ui.github.io/2025/10/01-plushy-redux.html"
 
 ################
 # --- Logo --- #
