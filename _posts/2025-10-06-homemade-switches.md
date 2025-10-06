@@ -19,4 +19,4 @@ A tip I would say is to layer stitches of conductive thread if I want to create 
 
 ![back of homemade switch](https://alexahanson22-ui.github.io/assets/img/backofhomemade.jpeg){: .mx-auto .d-block }
 
-![homemade switch alligator stage](https://alexahanson22-ui.github.io/assets/img/alligatorstagehomemade.jpeg){: .mx-auto .d-block }
+![homemade switch alligator stage](https://alexahanson22-ui.github.io/assets/img/alligatorclipstagehomemade.jpeg){: .mx-auto .d-block }
