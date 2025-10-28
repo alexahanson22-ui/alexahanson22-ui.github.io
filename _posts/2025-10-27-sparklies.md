@@ -12,4 +12,4 @@ A hint is that using the cheat sheet that Iris gave us is very helpful in helpin
 ## a pic of it
 
 
-![RGB loop output](https://alexahanson22-ui.github.io/assets/img/RGB.png){: .mx-auto .d-block }
+![Sparklie](https://alexahanson22-ui.github.io/assets/img/sparklie.jpeg){: .mx-auto .d-block }
