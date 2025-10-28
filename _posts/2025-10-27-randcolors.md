@@ -12,4 +12,4 @@ A hint is that starting with pseudocode and then filling in is very helpful. Als
 ## The output
 
 
-![RGB](https://alexahanson22-ui.github.io/assets/img/rgb.jpeg){: .mx-auto .d-block }
+![RGB](https://alexahanson22-ui.github.io/assets/img/RGB2.jpeg){: .mx-auto .d-block }
