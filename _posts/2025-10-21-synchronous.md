@@ -12,4 +12,4 @@ A hint is to use booleans as much as possible in the if else statements because 
 ## Pic!
 
 
-![Sparklie](https://alexahanson22-ui.github.io/assets/img/synccc.jpeg){: .mx-auto .d-block }
+![pic of synch](https://alexahanson22-ui.github.io/assets/img/synccc.jpeg){: .mx-auto .d-block }
