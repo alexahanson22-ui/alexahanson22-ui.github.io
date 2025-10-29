@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Synchronous section of sparklies project
-subtitle: Coding so the firefly flashes every 10 seconds in a series of 3 flashes
+title: Bigdipper firefly or fade for sparklies project
+subtitle: Adjusting the LED brightness
 author: Alexa Hanson
 ---
 
-In this project, I used a state-based approach to a synchronous flashing pattern with every 10 seconds in a series of 3 flashes. I had to use inphase and endphase variables to make it work, as well as a timer and interval and delay.
+In this project, similar to a fade program, the program increases the brightness of an LED until its max brightness where it then turns off. I used booleans as well as the interval, timer, and fade amount and timeupdate variables.
 
-A hint is to use booleans as much as possible in the if else statements because that will be the magic trick to make it work.
+A hint is to clearly explain what each variable is doing in the pseudocode when defining it, which will make it easier to write the loop and the rest of the code.
 
-## Pic!
+## Pic of board
 
 
 ![Sparklie](https://alexahanson22-ui.github.io/assets/img/sparklie.jpeg){: .mx-auto .d-block }
