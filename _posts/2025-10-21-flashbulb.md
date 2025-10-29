@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Synchronous section of sparklies project
-subtitle: Coding so the firefly flashes every 10 seconds in a series of 3 flashes
+title: Flash section of sparklies project
+subtitle: Coding so the firefly flashes in a blinking pattern
 author: Alexa Hanson
 ---
 
-In this project, I used a state-based approach to a synchronous flashing pattern with every 10 seconds in a series of 3 flashes. I had to use inphase and endphase variables to make it work, as well as a timer and interval and delay.
+In this project, I used a state-based approach to turn on an LED on the Arduino LilyPad to mimic a blinking pattern, as if it was a firefly flashing its lightbulb. I practiced using a timer and delay and displaying the voltage.
 
-A hint is to use booleans as much as possible in the if else statements because that will be the magic trick to make it work.
+A hint is to test the "high" and "low" voltage on the pin to make sure it aligns with the blinking pattern first.
 
-## Pic!
+## Pic of the lilpad board
 
 
 ![Sparklie](https://alexahanson22-ui.github.io/assets/img/sparklie.jpeg){: .mx-auto .d-block }
