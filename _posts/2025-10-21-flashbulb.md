@@ -9,8 +9,8 @@ In this project, I used a state-based approach to turn on an LED on the Arduino 
 
 A hint is to test the "high" and "low" voltage on the pin to make sure it aligns with the blinking pattern first.
 
-## Pic of the lilpad board
+## Pic of the lilypad board
 
 
-![Sparklie](https://alexahanson22-ui.github.io/assets/img/sparklie.jpeg){: .mx-auto .d-block }
+![flashbulb](https://alexahanson22-ui.github.io/assets/img/flashbulb.jpeg){: .mx-auto .d-block }
 
