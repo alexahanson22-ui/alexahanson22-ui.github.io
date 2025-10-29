@@ -12,5 +12,5 @@ A hint is to clearly explain what each variable is doing in the pseudocode when 
 ## Pic of board
 
 
-![Sparklie](https://alexahanson22-ui.github.io/assets/img/sparklie.jpeg){: .mx-auto .d-block }
+![big dipper](https://alexahanson22-ui.github.io/assets/img/bdipper.jpeg){: .mx-auto .d-block }
 
