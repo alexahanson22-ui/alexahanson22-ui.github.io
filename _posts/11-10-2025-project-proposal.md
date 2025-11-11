@@ -10,5 +10,5 @@ See below for the details to my project:
 ## My proposal
 
 
-![Photo of cathat proposal](https://alexahanson22-ui.github.io/assets/img/){: .mx-auto .d-block }
+![Photo of cathat proposal](https://alexahanson22-ui.github.io/assets/img/cathat.jpg){: .mx-auto .d-block }
 
