@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project Proposal: Comfort Cat Hat
-subtitle: My final project proposal.
+title: Comfort Cat Hat
+subtitle: My final project proposal
 author: Alexa Hanson
 ---
 
