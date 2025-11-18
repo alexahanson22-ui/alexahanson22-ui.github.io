@@ -12,4 +12,4 @@ A tip to myself would be to understand that the number of analog pins in the arr
 ## The array at work...
 
 
-![Photo of array working](https://alexahanson22-ui.github.io/assets/img/array1.jpg){: .mx-auto .d-block }
+![Photo of array working](https://alexahanson22-ui.github.io/assets/img/array2.jpg){: .mx-auto .d-block }
