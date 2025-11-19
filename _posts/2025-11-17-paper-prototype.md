@@ -5,9 +5,7 @@ subtitle: Prototyping my cathat for the final assignment
 author: Alexa Hanson
 ---
 
-In this assignment, I used my knowledge of analog pins on the lilypad to create an array code that turns on a random PWN pin every 1 second, that will also turn off appropriately.
-
-A tip to myself would be to understand that the number of analog pins in the array must match the number of statements within the boolean array, because my code wouldn't run at first.
+Here is my prototype for my final project. I am making a comfort cathat to give as a gift to my mom for our cat Oreo.
 
 ## The Paper prototype
 
