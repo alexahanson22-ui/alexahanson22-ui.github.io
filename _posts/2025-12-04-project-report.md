@@ -1,14 +1,22 @@
 ---
 layout: post
-title: Paper prototype CatHat
-subtitle: Prototyping my cathat for the final assignment
+title: Comfort CatHat
+subtitle: A hat designed to detect the comfort levels of a cat based on their warmth.
 author: Alexa Hanson
 ---
 
-Here is my prototype for my final project. I am making a comfort cathat to give as a gift to my mom for our cat Oreo.
+When planning my project, I decided to make a surprise gift for my mom. One of the things that we do often is discuss the mood of our 16 year old cat Oreo. So, to make it easier to determine how she may be feeling, I decided to create a hat in this class that would detect if she was warm or cold and identify that. I used the analog sensor (temperature sensor) as an input to determine her comfort level. If she was warmer, the green RGB LED would dim, and as she is colder it grows brighter. To check if the hat was working without having to take the hat off of her and disrupt her, I placed a button as another input and connected it to a blue LED. I sewed the cathat using green felt, and used pink embroidery thread as decor and a white felt rim. I then cinched the ears so that ears could fit in the hat.
 
-## The Paper prototype
+3 tips to my past self:
+1) Create a more in depth paper prototype that has all of the pin numbers labeled.
+2) Use another analog input instead of digital input, because it would have been easier to code (for me).
+3) Cut out the felt differently so that the ears were easier to craft on the hat.
 
+## Revised paper prototype
+
+## Alligator Prototype
+
+## My project in action
 
 ![Photo of cathat prototype](https://alexahanson22-ui.github.io/assets/img/CatHat.png)
 {: .mx-auto .d-block }
