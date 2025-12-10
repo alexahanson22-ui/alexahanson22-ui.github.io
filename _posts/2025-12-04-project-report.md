@@ -25,6 +25,10 @@ When planning my project, I decided to make a surprise gift for my mom. One of t
 ![Photo of front of cathat](/assets/img/finalcathat.png){: .d-block .mx-auto }
 ![Photo of back of cathat](/assets/img/backoffinalcathat.png){: .d-block .mx-auto }
 
+## List of materials used on here
+![Photo of cathat prototype](https://alexahanson22-ui.github.io/assets/img/CatHat.png)
+{: .mx-auto .d-block }
+
 
 
 
