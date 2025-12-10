@@ -10,7 +10,7 @@ When planning my project, I decided to make a surprise gift for my mom. One of t
 3 tips to my past self:
 1) Create a more in depth paper prototype that has all of the pin numbers labeled.
 2) Use another analog input instead of digital input, because it would have been easier to code (for me).
-3) Cut out the felt differently so that the ears were easier to craft on the hat.
+3) Cut out the felt differently so that the ears were easier to craft on the hat. I managed to cinch them but it would have been easier if I hat cut them out differently.
 
 ## Revised paper prototype
 ![Photo of updated prototype](https://alexahanson22-ui.github.io/assets/img/updatedprototype.png){: .d-block .mx-auto }
