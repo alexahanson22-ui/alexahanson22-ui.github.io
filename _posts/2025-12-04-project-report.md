@@ -13,7 +13,7 @@ When planning my project, I decided to make a surprise gift for my mom. One of t
 3) Cut out the felt differently so that the ears were easier to craft on the hat.
 
 ## Revised paper prototype
-![Photo of prototype set up](https://alexahanson22-ui.github.io/assets/img/prototype.png){: .d-block .mx-auto }
+![Photo of updated prototype](https://alexahanson22-ui.github.io/assets/img/updatedprototype.png){: .d-block .mx-auto }
 
 
 
