@@ -22,6 +22,8 @@ When planning my project, I decided to make a surprise gift for my mom. One of t
 ## My project in action
 ![Photo of prototype set up](https://alexahanson22-ui.github.io/assets/img/brightnesshigh.png){: .d-block .mx-auto }
 ![Photo of prototype set up](https://alexahanson22-ui.github.io/assets/img/brightnesslow.png){: .d-block .mx-auto }
+![Photo of prototype set up](https://alexahanson22-ui.github.io/assets/img/finalcathat.png){: .d-block .mx-auto }
+
 
 
 
