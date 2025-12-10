@@ -20,10 +20,10 @@ When planning my project, I decided to make a surprise gift for my mom. One of t
 ![Photo of prototype set up](https://alexahanson22-ui.github.io/assets/img/alligatorclipstage.png){: .d-block .mx-auto }
 
 ## My project in action
-![Photo of prototype set up](https://alexahanson22-ui.github.io/assets/img/brightnesshigh.png){: .d-block .mx-auto }
-![Photo of prototype set up](https://alexahanson22-ui.github.io/assets/img/brightnesslow.png){: .d-block .mx-auto }
-![Photo of prototype set up](https://alexahanson22-ui.github.io/assets/img/finalcathat.png){: .d-block .mx-auto }
-![Photo of prototype set up](https://alexahanson22-ui.github.io/assets/img/backoffinalcathat.png){: .d-block .mx-auto }
+![Photo of brightness on high](https://alexahanson22-ui.github.io/assets/img/brightnesshigh.png){: .d-block .mx-auto }
+![Photo of low brightness](https://alexahanson22-ui.github.io/assets/img/brightnesslow.png){: .d-block .mx-auto }
+![Photo of front of cathat](https://alexahanson22-ui.github.io/assets/img/finalcathat.png){: .d-block .mx-auto }
+![Photo of back of cathat](https://alexahanson22-ui.github.io/assets/img/backoffinalcathat.png){: .d-block .mx-auto }
 
 
 
