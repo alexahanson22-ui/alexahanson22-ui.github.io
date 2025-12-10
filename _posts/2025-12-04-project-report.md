@@ -13,17 +13,17 @@ When planning my project, I decided to make a surprise gift for my mom. One of t
 3) Cut out the felt differently so that the ears were easier to craft on the hat. I managed to cinch them but it would have been easier if I hat cut them out differently.
 
 ## Revised paper prototype
-![Photo of updated prototype](https://alexahanson22-ui.github.io/assets/img/updatedprototype.png){: .d-block .mx-auto }
-![Photo of prototype set up](https://alexahanson22-ui.github.io/assets/img/prototype.png){: .d-block .mx-auto }
+![Photo of updated prototype](assets/img/updatedprototype.png){: .d-block .mx-auto }
+![Photo of prototype set up](/assets/img/prototype.png){: .d-block .mx-auto }
 
 ## Alligator Prototype
-![Photo of prototype set up](https://alexahanson22-ui.github.io/assets/img/alligatorclipstage.png){: .d-block .mx-auto }
+![Photo of prototype set up](/assets/img/alligatorclipstage.png){: .d-block .mx-auto }
 
 ## My project in action
-![Photo of brightness on high](https://alexahanson22-ui.github.io/assets/img/brightnesshigh.png){: .d-block .mx-auto }
-![Photo of low brightness](https://alexahanson22-ui.github.io/assets/img/brightnesslow.png){: .d-block .mx-auto }
-![Photo of front of cathat](https://alexahanson22-ui.github.io/assets/img/finalcathat.png){: .d-block .mx-auto }
-![Photo of back of cathat](https://alexahanson22-ui.github.io/assets/img/backoffinalcathat.png){: .d-block .mx-auto }
+![Photo of brightness on high](/assets/img/brightnesshigh.png){: .d-block .mx-auto }
+![Photo of low brightness](/assets/img/brightnesslow.png){: .d-block .mx-auto }
+![Photo of front of cathat](/assets/img/finalcathat.png){: .d-block .mx-auto }
+![Photo of back of cathat](/assets/img/backoffinalcathat.png){: .d-block .mx-auto }
 
 
 
