@@ -13,10 +13,10 @@ When planning my project, I decided to make a surprise gift for my mom. One of t
 3) Cut out the felt differently so that the ears were easier to craft on the hat.
 
 ## Revised paper prototype
+![Photo of prototype set up](https://alexahanson22-ui.github.io/assets/img/prototype.png)
+{: .mx-auto .d-block }
 
 ## Alligator Prototype
 
 ## My project in action
 
-![Photo of cathat prototype](https://alexahanson22-ui.github.io/assets/img/CatHat.png)
-{: .mx-auto .d-block }
