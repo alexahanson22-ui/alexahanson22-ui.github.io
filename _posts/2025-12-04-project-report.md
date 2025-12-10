@@ -15,6 +15,7 @@ When planning my project, I decided to make a surprise gift for my mom. One of t
 ## Revised paper prototype
 ![Photo of prototype set up](https://alexahanson22-ui.github.io/assets/img/prototype.png){: .mx-auto .d-block }
 
+
 ## Alligator Prototype
 
 ## My project in action
