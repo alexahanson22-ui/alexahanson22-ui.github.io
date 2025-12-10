@@ -17,7 +17,7 @@ When planning my project, I decided to make a surprise gift for my mom. One of t
 ![Photo of prototype set up](https://alexahanson22-ui.github.io/assets/img/prototype.png){: .d-block .mx-auto }
 
 ## Alligator Prototype
-![Photo of prototype set up](/assets/img/alligatorclipstage.png){: .d-block .mx-auto }
+![Photo of prototype set up](https://alexahanson22-ui.github.io/assets/img/alligatorclipstage.png){: .d-block .mx-auto }
 
 ## My project in action
 ![Photo of prototype set up](https://alexahanson22-ui.github.io/assets/img/brightnesshigh.png){: .d-block .mx-auto }
