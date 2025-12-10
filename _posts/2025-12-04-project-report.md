@@ -12,6 +12,9 @@ When planning my project, I decided to make a surprise gift for my mom. One of t
 2) Use another analog input instead of digital input, because it would have been easier to code (for me).
 3) Cut out the felt differently so that the ears were easier to craft on the hat. I managed to cinch them but it would have been easier if I hat cut them out differently.
 
+## Final list of materials used
+Green felt, white felt, pink non-conductive thread, conductive thread, Lilypad button, Lilypad LED, Lilypad RGB Led, Lithium portable battery, and Lilypad system with various conductive ports, needle, scissors.
+
 ## Revised paper prototype
 ![Photo of updated prototype](/assets/img/updatedprototypee.png){: .d-block .mx-auto }
 ![Photo of prototype set up](/assets/img/prototype.png){: .d-block .mx-auto }
@@ -24,10 +27,6 @@ When planning my project, I decided to make a surprise gift for my mom. One of t
 ![Photo of low brightness](/assets/img/brightnesslow.png){: .d-block .mx-auto }
 ![Photo of front of cathat](/assets/img/finalcathat.png){: .d-block .mx-auto }
 ![Photo of back of cathat](/assets/img/backoffinalcathat.png){: .d-block .mx-auto }
-
-## List of materials used on here
-![Photo of cathat prototype](https://alexahanson22-ui.github.io/assets/img/CatHat.png)
-{: .mx-auto .d-block }
 
 
 
